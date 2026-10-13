@@ -1,1 +1,1 @@
-# mismi-discord-bot
+# misty-discord-bot
